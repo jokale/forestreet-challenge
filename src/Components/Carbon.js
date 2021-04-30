@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Carbon extends Component {
     state = { 
-        data = []
+        data: []
      }
     render() { 
         return ( <div>
